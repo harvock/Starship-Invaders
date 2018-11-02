@@ -13,3 +13,5 @@ Player 1 and 2:
 •	Arrow key right: move the starship right.
 
 •	Space bar: shoot laser beams.
+
+TIP: press F11 on your browser for a better visualization.
