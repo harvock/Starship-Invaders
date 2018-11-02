@@ -1,0 +1,17 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #08022b;
+  color: white;
+}
+
+button {
+  border-radius: 15px;
+  font-size: 80px;
+  color: white;
+  background-color: blue;
+}
+
+h1 {
+  justify-items: left;
+  margin-left: 450px;
+}
